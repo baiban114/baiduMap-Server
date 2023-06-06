@@ -12,6 +12,8 @@
     <description>基于SpringCloud Alibaba的百度地图应用的服务端部分的开发</description>
 
     <modules>
+        <module>baidumap-gateway</module>
+        <module>baidumap-map</module>
     </modules>
     <packaging>pom</packaging>
 
